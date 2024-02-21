@@ -6,4 +6,4 @@ Title: Methane mapping, emission quantification and attribution in two European 
 
 - This code is Licensed under MIT License.
 - Copyright (c) 2020 Hossein Maazallahi
-(https://www.linkedin.com/in/hossein-maazallahi-75a7a180/)
+
